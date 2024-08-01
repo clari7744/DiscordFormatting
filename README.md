@@ -4,7 +4,11 @@ A couple tutorials about the inner workings of Discord formatting.
 
 ### [DISCORD_MARKDOWN.md](DISCORD_MARKDOWN.md)
 
-This page explains how Discord's special brand of Markdown works. Markdown is a way to use special characters for rich text formatting, but Discord works slightly different from the standard or GitHub's version.
+This page explains how Discord's special brand of Markdown works. Markdown is a way to use special characters for rich text formatting, but Discord works slightly different from the standard or GitHub's version. This page is divided into sections for each type of formatting. See the below Table of Contents:
+- [Inline Formatting](DISCORD_MARKDOWN.md#Inline-Formatting)
+- [Full-line Formatting](DISCORD_MARKDOWN.md#Full-line-Formatting)
+- [Multiline Formatting](DISCORD_MARKDOWN.md#Multiline-Formatting)
+- [Hyperlinks](DISCORD_MARKDOWN.md#Hyperlinks)
 
 ### [MENTIONABLE_OBJECTS.md](MENTIONABLE_OBJECTS.md)
 
